@@ -1,0 +1,24 @@
+{
+  "brand": {
+    "value": "#3036fa",
+    "type": "color"
+  },
+  "textonBrand": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "sm": {
+    "value": "4px",
+    "type": "sizing"
+  },
+  "md": {
+    "value": "8px",
+    "type": "sizing"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  }
+}

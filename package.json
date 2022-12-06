@@ -1,0 +1,25 @@
+{
+  "name": "tokenrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transformer": "token-transformer token.json tokens/input.json",
+		"dictionary": "style-dictionary build --config config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parvin-Gasimli/tokenrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parvin-Gasimli/tokenrepo/issues"
+  },
+  "homepage": "https://github.com/Parvin-Gasimli/tokenrepo#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.1",
+    "token-transformer": "^0.0.28"
+  }
+}
